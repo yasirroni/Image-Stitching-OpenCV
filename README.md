@@ -11,7 +11,7 @@ We use scale invariant features transform(SIFT) to extract local features of the
 - OpenCV 3
 
 ## Usage
-`python Image_Stitching [/PATH/img1] [/PATH/img2]`
+`python image_stitching [/PATH/img1] [/PATH/img2]`
 
 ## Sample 
 
